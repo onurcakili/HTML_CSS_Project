@@ -1,0 +1,15 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 80px;
+}
+
+#cities .items{
+    flex-direction: column;
+}
+
+#cities .items .item{
+    width: 100%;
+}
